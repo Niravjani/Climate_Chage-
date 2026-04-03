@@ -1,4 +1,4 @@
-ow to View Your Climate Data on the Web
+How to View Your Climate Data on the Web
 Quick Start
 Generate the data first (if you haven't already):
 
@@ -34,3 +34,13 @@ Make sure you've run the data generation step first
 Check that Streamlit is installed: pip install streamlit
 Try a different port: streamlit run app.py --server.port 8502
 The dashboard will automatically detect and load your climate data fil
+
+
+Results:
+![WhatsApp Image 2026-04-03 at 11 23 44 AM (1)](https://github.com/user-attachments/assets/9a000cae-332f-4459-bb03-d5649936e84c)
+
+![WhatsApp Image 2026-04-03 at 11 23 45 AM](https://github.com/user-attachments/assets/6f6da340-759f-474b-a004-c37ded556c61)
+![WhatsApp Image 2026-04-03 at 11 23 45 AM (1)](https://github.com/user-attachments/assets/23268655-7e7e-47f2-be63-92566bef657f)
+
+
+
